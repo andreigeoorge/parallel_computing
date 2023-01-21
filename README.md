@@ -1,3 +1,3 @@
-# parallel_computing
-Parallel computing project
+# Parallel computing project
+
 Work in progress...
